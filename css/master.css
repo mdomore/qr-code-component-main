@@ -1,0 +1,33 @@
+body {
+  background-color: #d6e2f0;
+  font-family: 'Outfit', sans-serif;
+}
+
+h1 {
+  color: #1f3251;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 20px;
+  width: 330px;
+}
+
+.main-container {
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  margin: 0 auto;
+  padding: 22.5px;
+  text-align: center;
+  width: 330px;
+}
+
+.text {
+  margin: 20px;
+}
+
+p {
+  color: #7b879d;
+  font-size: 1.1rem;
+}
